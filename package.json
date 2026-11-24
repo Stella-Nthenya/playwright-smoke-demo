@@ -1,0 +1,1 @@
+{"name":"playwright-smoke-demo","private":true,"type":"module","scripts":{"test":"playwright test","typecheck":"tsc --noEmit","check:detects-bugs":"node scripts/check-detects-bugs.mjs"},"devDependencies":{"@playwright/test":"1.62.1","@types/node":"26.6.6","typescript":"7.0.2"}}
